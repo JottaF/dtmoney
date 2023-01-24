@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-01-19T17:17:01.973Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Comida",
+      "price": 10,
+      "createdAt": "2023-01-19T17:21:01.973Z"
+    },
+    {
+      "id": 3,
+      "description": "Compras",
+      "type": "outcome",
+      "category": "Compra",
+      "price": 910,
+      "createdAt": "2023-02-19T17:21:01.973Z"
+    },
+    {
+      "description": "Fralda",
+      "category": "Compra",
+      "price": 1000,
+      "type": "outcome",
+      "createdAt": "2023-01-23T17:02:02.402Z",
+      "id": 4
+    },
+    {
+      "description": "Depósito",
+      "category": "dfadsf",
+      "price": 15,
+      "type": "income",
+      "createdAt": "2023-01-23T17:06:37.764Z",
+      "id": 5
+    },
+    {
+      "description": "Compras no mais caro",
+      "category": "Compras",
+      "price": 53,
+      "type": "outcome",
+      "createdAt": "2023-01-23T17:42:18.786Z",
+      "id": 6
+    },
+    {
+      "description": "Depósito",
+      "category": "teste",
+      "price": 5,
+      "type": "income",
+      "createdAt": "2023-01-23T18:47:36.589Z",
+      "id": 7
+    }
+  ]
+}
